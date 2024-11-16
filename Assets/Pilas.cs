@@ -1,7 +1,6 @@
-using System;
 using UnityEngine;
 
-public class Libro : ObjetoSimple
+public class Pilas : ObjetoSimple
 {
     private void OnMouseDown()
     {

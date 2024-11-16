@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e3313518a7cc59242a97e415dc936306
+guid: 25dfbf8843367a346b3b33347b4c9734
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4000590165510564417
-    second: Libro_marcado_0
+      213: 1204648796773769167
+    second: asdasdasdasdasd_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -152,13 +152,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Libro_marcado_0
+      name: asdasdasdasdasd_0
       rect:
         serializedVersion: 2
-        x: 15
+        x: 0
         y: 0
-        width: 373
-        height: 804
+        width: 1488
+        height: 825
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,8 +167,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fb552d4c07c0b78c0800000000000000
-      internalID: -4000590165510564417
+      spriteID: fcf5dcab2b5c7b010800000000000000
+      internalID: 1204648796773769167
       vertices: []
       indices: 
       edges: []
@@ -187,7 +187,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Libro_marcado_0: -4000590165510564417
+      asdasdasdasdasd_0: 1204648796773769167
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

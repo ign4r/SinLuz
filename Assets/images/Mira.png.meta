@@ -286,7 +286,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mira_0: 7425490484782313185
+      Mira_1: -333532397092433621
+      Mira_2: -3210800797828083685
+      Mira_3: 4515959685078656421
+      Mira_4: 6246088172921200536
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
