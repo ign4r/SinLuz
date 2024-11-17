@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 9a9c367eb02b6ba4aa166701787b190b
+guid: 5bac5827cccaa01419acb17c7d7e3217
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1881843128627006152
-    second: 20241116011835_1_0
+      213: 7085153483514106593
+    second: Puerta_habitacion_marcada_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -152,13 +152,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 20241116011835_1_0
+      name: Puerta_habitacion_marcada_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1920
-        height: 1080
+        x: 33
+        y: 3
+        width: 286
+        height: 1077
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,8 +167,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8357d2b15a952e5e0800000000000000
-      internalID: -1881843128627006152
+      spriteID: 1e2daf3fd85835260800000000000000
+      internalID: 7085153483514106593
       vertices: []
       indices: 
       edges: []
@@ -186,8 +186,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      20241116011835_1_0: -1881843128627006152
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

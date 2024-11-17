@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 8ef1423ae08a6d64dafebd4d3c10d860
+guid: 7ec9d519e443a394db13d2217ed27a27
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5479351258322596342
-    second: asdasdasdasdasdasdasdasdas_0
+      213: -2545484844074652879
+    second: Celular_marcado_0
+  - first:
+      213: -3007854900696372330
+    second: Celular_marcado_1
+  - first:
+      213: 535127312640708717
+    second: Celular_marcado_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -152,13 +158,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: asdasdasdasdasdasdasdasdas_0
+      name: Celular_marcado_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 51
         y: 0
-        width: 298
-        height: 502
+        width: 569
+        height: 889
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,8 +173,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6f178e740f09a0c40800000000000000
-      internalID: 5479351258322596342
+      spriteID: 13b2ac7550f9cacd0800000000000000
+      internalID: -2545484844074652879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celular_marcado_1
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b231477e3f146d0800000000000000
+      internalID: -3007854900696372330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celular_marcado_2
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 37
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d601f83a4772d6700800000000000000
+      internalID: 535127312640708717
       vertices: []
       indices: 
       edges: []
@@ -186,8 +236,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      asdasdasdasdasdasdasdasdas_0: 5479351258322596342
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
