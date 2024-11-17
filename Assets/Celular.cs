@@ -1,8 +1,13 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Celular : ObjetoSimple
 {
     private bool isCharged;
+    [SerializeField]Image imageComponent;
+    [SerializeField] Sprite unCharged;
+    [SerializeField] Sprite charged;
+    
 
     private void OnMouseDown()
     {
@@ -11,15 +16,14 @@ public class Celular : ObjetoSimple
         itemUI.gameObject.SetActive(true);
     } 
 
-    public void ChangeState()
+    public void Charged()
     {
-        if (isCharged)
-        {
-            //TODO: CAMBIAR SPRITE
-        }
-        else
-        {
-            //TODO: CAMBIAR SPRITE
-        }
+        isCharged = true;
+        imageComponent.sprite = charged;
+    }
+    public void Use()
+    {
+        imageComponent.sprite = unCharged;
+
     }
 }

@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class playerController : MonoBehaviour
 {
@@ -9,5 +10,11 @@ public class playerController : MonoBehaviour
         Vector3 worldPos = mainCamera.ScreenToWorldPoint(mousePos);
         worldPos.z = 3;
         transform.position = worldPos;
+
+       
+    }
+    public void ReturnMenu()
+    {
+        SceneManager.LoadScene(0);
     }
 }
