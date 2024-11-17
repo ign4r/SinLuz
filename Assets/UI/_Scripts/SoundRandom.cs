@@ -17,8 +17,8 @@ public class SoundRandom : MonoBehaviour
 
     void Update()
     {
-        // Detiene la corutina si se presiona la tecla S
-       
+      
+
     }
 
     IEnumerator PlaySounds()
@@ -29,7 +29,7 @@ public class SoundRandom : MonoBehaviour
             {
                 if (audioSource != null && clip != null)
                 {
-                    audioSource.clip = clip;
+                    audioSource.clip = soundClips[Random.Range(0,soundClips.Length)];
                     audioSource.Play();
                     Debug.Log($"Reproduciendo: {clip.name}");
                 }
