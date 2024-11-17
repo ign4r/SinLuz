@@ -7,6 +7,7 @@ public class Cargador : ObjetoSimple
         agarrar();
         gameObject.SetActive(false);
         itemUI.gameObject.SetActive(true);
+
     }
 }
 
