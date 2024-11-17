@@ -1,8 +1,10 @@
 using System;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class ObjetoSimple : MonoBehaviour
 {
+    public Image itemUI;
     public Sprite sinLuz;
     public Sprite conLuz;
     public string nombre;

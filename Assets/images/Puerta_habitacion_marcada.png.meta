@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Puerta_habitacion_marcada_0: 7085153483514106593
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

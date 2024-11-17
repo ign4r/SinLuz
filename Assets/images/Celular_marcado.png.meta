@@ -236,7 +236,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Celular_marcado_0: -2545484844074652879
+      Celular_marcado_1: -3007854900696372330
+      Celular_marcado_2: 535127312640708717
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

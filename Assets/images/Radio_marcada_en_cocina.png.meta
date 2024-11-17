@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Radio_marcada_en_cocina_0: 4427314132181057541
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

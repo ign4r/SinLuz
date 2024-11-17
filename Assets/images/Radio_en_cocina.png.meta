@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Radio_en_cocina_0: 2168623136524736368
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

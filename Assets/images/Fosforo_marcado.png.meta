@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fosforo_marcado_0: -2381735993877619672
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
