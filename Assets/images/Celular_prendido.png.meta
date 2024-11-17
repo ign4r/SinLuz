@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 10fb5223a6b3df5458b39ad92d338ba6
+guid: bf6273d3715e3dd478bd5033f00a862e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7175261627662145010
-    second: Creditos_0
+      213: 8974351256506801108
+    second: Celular_prendido_0
+  - first:
+      213: -1598919002145772083
+    second: Celular_prendido_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Creditos_0
+      name: Celular_prendido_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1920
-        height: 1080
+        x: 734
+        y: 125
+        width: 452
+        height: 770
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +118,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2f51b472f66a39360800000000000000
-      internalID: 7175261627662145010
+      spriteID: 4db1bad6bec4b8c70800000000000000
+      internalID: 8974351256506801108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celular_prendido_1
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 54
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdaa7493af7fc9e0800000000000000
+      internalID: -1598919002145772083
       vertices: []
       indices: 
       edges: []
@@ -134,8 +159,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Creditos_0: 7175261627662145010
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
