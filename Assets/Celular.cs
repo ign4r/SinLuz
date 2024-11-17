@@ -1,11 +1,11 @@
 using UnityEngine;
 
-public class Pilas : ObjetoSimple
+public class Celular : ObjetoSimple
 {
     private void OnMouseDown()
     {
         agarrar();
         gameObject.SetActive(false);
         itemUI.gameObject.SetActive(true);
-    }
+    } 
 }

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Pilas : ObjetoSimple
+public class Llave : ObjetoSimple
 {
     private void OnMouseDown()
     {
@@ -8,4 +8,5 @@ public class Pilas : ObjetoSimple
         gameObject.SetActive(false);
         itemUI.gameObject.SetActive(true);
     }
+
 }

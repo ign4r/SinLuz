@@ -7,5 +7,6 @@ public class Libro : ObjetoSimple
     {
         agarrar();
         gameObject.SetActive(false);
+        itemUI.gameObject.SetActive(true);
     }
 }
