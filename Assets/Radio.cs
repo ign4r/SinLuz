@@ -2,9 +2,14 @@ using UnityEngine;
 
 public class Radio : ObjetoSimple
 {
+
+    [SerializeField] AudioSource distorsion;
+    [SerializeField] AudioSource musica;
+
     private void OnMouseDown()
     {
-        //cambiar cancion
+        distorsion.Stop();
+        musica.Play();
     }
     
 }
