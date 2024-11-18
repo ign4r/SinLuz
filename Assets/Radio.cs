@@ -2,9 +2,13 @@ using UnityEngine;
 
 public class Radio : ObjetoSimple
 {
+    [SerializeField] private AudioSource aSource;
+    [SerializeField] private AudioClip aClip;
     private void OnMouseDown()
     {
-        //cambiar cancion
+        aSource.clip = aClip;
+        aSource.Play();
+
     }
     
 }

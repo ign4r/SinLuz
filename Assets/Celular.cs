@@ -7,6 +7,7 @@ public class Celular : ObjetoSimple
     [SerializeField]Image imageComponent;
     [SerializeField] Sprite unCharged;
     [SerializeField] Sprite charged;
+    [SerializeField] AudioSource aSource;
     
 
     private void OnMouseDown()
@@ -23,7 +24,10 @@ public class Celular : ObjetoSimple
     }
     public void Use()
     {
-        imageComponent.sprite = unCharged;
+        if (isCharged)
+        {
+            aSource.Play();
+        }
 
     }
 }
